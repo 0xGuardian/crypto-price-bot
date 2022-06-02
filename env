@@ -1,0 +1,34 @@
+# Duplicate this file with the name ".env" and change the variables to fit your config
+
+# The prefered currency to display
+PREFERRED_CURRENCY=usd
+
+# The currency to symbol display
+CURRENCY_SYMBOL=$
+
+# The currency to symbol display
+THOUSAND_SEPARATOR=,
+
+#Target Blockchain ( use Lookup values corresponding to your chain >> https://docs.moralis.io/moralis-dapp/web3-api/supported-chains, if Ethereum, use eth. )
+BLOCK_CHAIN=eth
+
+#Target Cryptocurrency Symbol
+SYMBOL=
+
+# Target Cryptocurrency Contract
+CONTRACT_ADDRESS=
+
+# Target Cryptocurrency Name
+COIN_NAME=
+
+# How many minutes before check the price again
+UPDATE_FREQUENCY=1
+
+# The ID of the server
+SERVER_ID=
+
+# MORALIS API KEY
+API_KEY=
+
+# The Discord token to login with
+DISCORD_TOKEN=
